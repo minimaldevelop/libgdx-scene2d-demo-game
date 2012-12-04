@@ -1,0 +1,33 @@
+
+PigTest.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+platform
+  rotate: false
+  xy: 1, 67
+  size: 480, 32
+  orig: 480, 32
+  offset: 0, 0
+  index: -1
+falling1
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rip
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+falling2
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
