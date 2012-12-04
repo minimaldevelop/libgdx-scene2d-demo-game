@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" exported="true" path="/Libgdx-Scene2d-Game" combineaccessrules="false"/>
+	<classpathentry kind="output" path="bin/classes"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" exported="true" path="/Libgdx-Scene2d-Game/libs/gdx.jar" sourcepath="/Libgdx-Scene2d-Game/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="/Libgdx-Scene2d-Game/libs/bodyeditor-loader.jar" sourcepath="/Libgdx-Scene2d-Game/libs/bodyeditor-loader-sources.jar"/>
+</classpath>
